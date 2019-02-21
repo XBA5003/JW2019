@@ -48,7 +48,7 @@
       <classroom id="*1" name="PUSAT SUMBER" short="PSS" htmlexportlink="rooms.html?frame=0"/>
    </classrooms>
    <students options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,classid,name,htmlexportlink"/>
-   <Settings bPrintClass="1" bPrintTeacher="1" bPrintClassroom="1" bPrintStudents="0" strPrintClass="Classes" strPrintTeacher="Teachers" strPrintClassroom="Classrooms" strPrintStudent="Students" strPrintSummary="Summary timetables" bPrintSummaryClass="1" bPrintSummaryTeacher="1" bPrintSummaryClassroom="1" strPrintSummaryClass="Classes" strPrintSummaryTeacher="Teachers" strPrintSummaryClassroom="Classrooms" bSeparateWeeksTerms="0" nWeeks="0" nTerms="0">
+   <Settings bPrintClass="1" bPrintTeacher="1" bPrintClassroom="0" bPrintStudents="0" strPrintClass="Classes" strPrintTeacher="Teachers" strPrintClassroom="Classrooms" strPrintStudent="Students" strPrintSummary="Summary timetables" bPrintSummaryClass="1" bPrintSummaryTeacher="1" bPrintSummaryClassroom="1" strPrintSummaryClass="Classes" strPrintSummaryTeacher="Teachers" strPrintSummaryClassroom="Classrooms" bSeparateWeeksTerms="0" nWeeks="0" nTerms="0">
       <Weeks W0="All weeks" W1="Week A"/>
       <Terms T0="Whole year" T1="Term 1"/>
       <strPrintWeek>Week</strPrintWeek>
